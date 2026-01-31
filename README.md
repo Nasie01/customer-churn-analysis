@@ -111,7 +111,7 @@ All visualizations are available in the `visualizations/` folder.
 
 ## Detailed Report
 
-For comprehensive findings, insights, and business implications, see the [Analysis Report](churn_analysis_report.pdf).
+For comprehensive findings, insights, and business implications, see the [Analysis Report](analysis_report.pdf).
 
 ## Key Outcomes
 
