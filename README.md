@@ -22,7 +22,7 @@ Customer churn results in revenue losses exceeding 860,000, with more than  670,
 
 ## Dataset
 
-**Source:** [Customer Churn Prediction Business Dataset](https://www.kaggle.com/datasets/sunilkumardas/customer-churn-prediction-business-dataset)
+**Source:** [Customer Churn Prediction Business Dataset]([https://www.kaggle.com/datasets/sunilkumardas/customer-churn-prediction-business-dataset](https://www.kaggle.com/datasets/miadul/customer-churn-prediction-business-dataset))
 Synthetic customer churn dataset with user behavior, activity, and billing features.
 
 **Key Features:**
