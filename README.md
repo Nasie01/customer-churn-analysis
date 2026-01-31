@@ -9,7 +9,7 @@ The purpose of this analysis was to identify the key drivers of customer churn a
 - The highest churn rate (28.1%) occurs within the first six months of product usage, while later tenure periods remain relatively stable at around 7–8%;
 - Inactivity is a strong churn signal: churn increases steadily after 26 days without login (~20%) and exceeds 40% after 56 days; 
 - Customers with low CSAT scores churn nearly three times more often than those with neutral or positive experiences;
-- 
+  
 **Non-significant factors:**
 Age, usage growth rate, contract type, price increase, response time, and email open rate do not have a significant impact on churn, with differences across segments remaining within 1%.
 
@@ -132,7 +132,7 @@ This analysis addresses the following questions:
 6. What is the financial impact of churn and which segments generate the most revenue loss?
 7. How has churn changed among customers after the price increase compared to those who were not affected?
 8. What types of support requests are associated with the highest churn?
-9. How is avg_response_time related to churn? How does churn change with low CSAT?
+9. How does average response time relate to churn? How does churn change with low CSAT?
 10. Do customers with low email open rates have higher churn compared to others?
 
 ## 👤 Author
